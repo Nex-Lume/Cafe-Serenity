@@ -1140,12 +1140,12 @@ function initCafeStatus() {
 
     // Cafe hours configuration
     const hours = {
-        0: { open: 8, close: 18 }, // Sunday
-        1: { open: 7, close: 20 }, // Monday
-        2: { open: 7, close: 20 }, // Tuesday
-        3: { open: 7, close: 20 }, // Wednesday
-        4: { open: 7, close: 20 }, // Thursday
-        5: { open: 7, close: 22 }, // Friday
+        0: { open: 8, close: 22 }, // Sunday
+        1: { open: 7, close: 21 }, // Monday
+        2: { open: 7, close: 21 }, // Tuesday
+        3: { open: 7, close: 21 }, // Wednesday
+        4: { open: 7, close: 21 }, // Thursday
+        5: { open: 7, close: 21 }, // Friday
         6: { open: 8, close: 22 } // Saturday
     };
 
